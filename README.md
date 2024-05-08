@@ -1,7 +1,9 @@
-![image](https://github.com/thiagonakasone/FOCO-6-SEM/blob/2b6f5c194ee6a7f93b8638572843e4b13a989732/F.png)
-# Aprendizado por Projeto Integrado (API) 
+<p align=center>
+  <img src="https://github.com/thiagonakasone/FOCO-6-SEM/blob/2b6f5c194ee6a7f93b8638572843e4b13a989732/F.png" width=300 heigth=150>
+</p>
+<br><br>
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
+# Aprendizado por Projeto Integrado (API) 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
@@ -92,16 +94,15 @@ Adicionar video e documentos nessa seção
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Product Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
 
 ## Soft Skill
 <details>
-<summary>Soft Skills Desenvolvidas>
-
+<summary>Soft Skills Desenvolvidas</summary>
+  
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
 | Liderança| ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
@@ -113,8 +114,7 @@ Adicionar video e documentos nessa seção
 
 </details>
 
-## 👜 Equipe
-![imagem](https://github.com/thiagonakasone/FOCO-6-SEM/blob/0958a1f9a127965b3184eca1ffe018d105fb8f2d/TEAM%20(1).jpg)
+# 👜 Equipe
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -126,6 +126,9 @@ Adicionar video e documentos nessa seção
 |Team Member|Ana Toledo| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/atoledoo)|
 |Team Member| Fernando Leite| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]()  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Fernandao78)|
 
+<br>
+
+![imagem](https://github.com/thiagonakasone/FOCO-6-SEM/blob/0958a1f9a127965b3184eca1ffe018d105fb8f2d/TEAM%20(1).jpg)
 
 
 
