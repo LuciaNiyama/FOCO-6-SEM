@@ -59,6 +59,8 @@ Adicionar video e documentos nessa seção
 > [x] Analise dos dados fornecidos pelo cliente 
 > 
 > [x] Modelagem de Banco de Dados em SQL
+>
+> - https://youtu.be/0Ta5u16SaPw
 > 
 
 ## Sprint 2.
