@@ -23,8 +23,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |------|--------|------|
 |Kick Off | 10/04/2024 | Concluído |
 |Sprint 1 |08/05/2024 | Concluído |
-|Sprint 2|29/05/2024| Em andamento |
-|Sprint 3| 19/06/2024 | a fazer|
+|Sprint 2|29/05/2024| Concluído |
+|Sprint 3| 19/06/2024 | Em andamento |
 |Feira de Soluções|27/06/2024|a fazer |
 
 
@@ -69,6 +69,9 @@ Adicionar video e documentos nessa seção
 > [x] Tela de Evolução de Custos Por KM no Power BI
 >
 > [x] Tela de Produtividade Mensal dos Veículos no Power BI
+>
+> - https://youtu.be/Rr1cA0_W4rQ?si=LPNgw6oRLU-goCkR
+>   
 ## Sprint 3.
 
 > [x]  Análise e Correção da 2ª Sprit
