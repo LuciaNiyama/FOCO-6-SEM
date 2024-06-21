@@ -24,8 +24,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |Kick Off | 10/04/2024 | Concluído |
 |Sprint 1 |08/05/2024 | Concluído |
 |Sprint 2|29/05/2024| Concluído |
-|Sprint 3| 19/06/2024 | Em andamento |
-|Feira de Soluções|27/06/2024|a fazer |
+|Sprint 3| 19/06/2024 | Concluído |
+|Feira de Soluções|27/06/2024| Em andamento |
 
 
 
