@@ -25,7 +25,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |Sprint 1 |08/05/2024 | Concluído |
 |Sprint 2|29/05/2024| Concluído |
 |Sprint 3| 19/06/2024 | Concluído |
-|Feira de Soluções|27/06/2024| Em andamento |
+|Feira de Soluções|27/06/2024| Concluído |
 
 
 
