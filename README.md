@@ -86,7 +86,8 @@ Adicionar video e documentos nessa seção
 ## 🏆 Feira de soluções
 
 > [x] Síntese dos Resultados Obtidos nas Sprints
-
+>
+> 
   
 # 🚀 Competências desenvolvidas
 
